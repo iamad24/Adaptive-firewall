@@ -32,10 +32,15 @@ This makes the firewall adaptive, intelligent, and capable of making real-time s
 The system can:
 
 ✅ Allow safe requests
+
 ✅ Block malicious requests
-✅ Temporarily block suspicious IPs
+
+✅ Temporarily block suspicious IPs 
+
 ✅ Permanently ban repeated attackers
+
 ✅ Log all attacks for forensic analysis
+
 ✅ Visualize everything on a real-time SOC-style dashboard
 
 ---
