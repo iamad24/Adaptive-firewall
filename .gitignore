@@ -1,3 +1,5 @@
+# project cleanup
+
 venv/
 __pycache__/
 *.db
